@@ -1,0 +1,10 @@
+
+.primary-background{
+	background:#ffc107!important;
+}
+
+.con img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
